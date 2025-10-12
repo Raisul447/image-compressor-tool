@@ -1,18 +1,18 @@
 # Image Compressor Tool - Client Side (HTML/JS)
 
-A Simple high-performance, modern web-based tool designed to **compress and optimize images** (JPG, JPEG, PNG, WEBP) right in the user's browser. This tool features a unique, deep purple gradient design and provides instant visual and size feedback.
+A Simple high-performance, modern web-based tool designed to **compress and optimize images** (JPG, JPEG, PNG, WEBP) right in the user's browser. Instantly compress images right in your browser for faster uploads and guaranteed privacy, no server needed.
 
 ---
 
 ## 🚀 Features
 
+- **Single-File Deployment:** The entire application (HTML, CSS, and JavaScript) is contained within one file for easy sharing and deployment.
 - **Client-Side Compression:** Uses the native **HTML Canvas API** (`canvas.toBlob`) to compress images directly in the browser, ensuring **user privacy** and instant results without server communication.
 - **Max File Size Validation:** Enforces a **5 MB limit** for the uploaded file.
 - **Compression Quality Control:** Includes a **range slider** for users to precisely adjust the compression quality (1% to 100%).
 - **Instant Result Visualization:** Shows side-by-side **Original vs. Compressed** image previews along with their respective file sizes and total size reduction percentage.
 - **Download Option:** Supports direct downloading of the single compressed file.
 - **Modern UI/UX:** Features a **Deep Purple gradient** (`#220093` to `#453ECE`), bold typography, and a prominent drag-and-drop area.
-- **Single-File Deployment:** The entire application (HTML, CSS, and JavaScript) is contained within one file for easy sharing and deployment.
 
 ---
 
