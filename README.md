@@ -9,6 +9,7 @@ A Simple high-performance, modern web-based tool designed to **compress and opti
 - **Single-File Deployment:** The entire application (HTML, CSS, and JavaScript) is contained within one file for easy sharing and deployment.
 - **Client-Side Compression:** Uses the native **HTML Canvas API** (`canvas.toBlob`) to compress images directly in the browser, ensuring **user privacy** and instant results without server communication.
 - **Max File Size Validation:** Enforces a **5 MB limit** for the uploaded file.
+- **Multiple-File Compression:** Allows up to **5 files** at a time to be compressed simultaneously.
 - **Compression Quality Control:** Includes a **range slider** for users to precisely adjust the compression quality (1% to 100%).
 - **Instant Result Visualization:** Shows side-by-side **Original vs. Compressed** image previews along with their respective file sizes and total size reduction percentage.
 - **Download Option:** Supports direct downloading of the single compressed file.
